@@ -1,9 +1,12 @@
 ### 👋欢迎来到“愚公要移山”的主页
 
 <img align="center" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme" style="zoom:200%;"/>
-
-**您好，我叫冯冬冬，西北工业大学计算机学院研三学渣一枚，庆幸的是在2021届校招中，斩获了大小厂10几个offer，本人热衷于写技术博客。发表在各大平台，虽然不挣钱，但是收获了一大帮志同道合的好朋友，**
-
+<ul>
+    <li> <strong>您好，我叫冯冬冬，西北工业大学计算机学院研三学渣一枚，在2021届校招中，斩获了大小厂10几个offer</strong> </li>
+   <li> <strong> 目前就职于上海美团</strong> </li>
+   <li> <strong> 本人热衷于写技术博客。发表在各大平台，虽然不挣钱，但是收获了一大帮志同道合的好朋友</strong> </li>
+ </ul>
+ 
 **本人致力于收集各种教程资源，成体系的梳理知识点，如果你是知识的追寻者，欢迎关注我的公众号：**
 
 **[公众号：愚公要移山](https://imgchr.com/i/rJnbO1)**
