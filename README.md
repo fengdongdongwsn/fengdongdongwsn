@@ -1,6 +1,6 @@
 ### 👋欢迎来到“愚公要移山”的主页
 
-<img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme" style="zoom:100%;"/>
+<img align="center" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme" style="zoom:200%;"/>
 
 **您好，我叫冯冬冬，西北工业大学计算机学院研三学渣一枚，庆幸的是在2021届校招中，斩获了大小厂10几个offer，本人热衷于写技术博客。发表在各大平台，虽然不挣钱，但是收获了一大帮志同道合的好朋友，**
 
