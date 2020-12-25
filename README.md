@@ -21,7 +21,7 @@
 | **教程资源（5T）**                                           | **学习路线**                                                 | **博客文章**                                             |                                                            |
 | [点我直达](https://mp.weixin.qq.com/s/nIODGnCKFgs3BTZ9Qy5rHQ?scene=25#wechat_redirect) | [点击直达](https://mp.weixin.qq.com/s/UTV2GXtBdX-oLh7M9LTEvQ) | [点击直达](https://mp.weixin.qq.com/s/wZ_4fy_F-NecMv3HO4Hfjw) |                                                            |
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:40%;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:30%;" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fengdongdongwsn&theme=onedark&bg_color=DEG,E96445,904E95&show_icons=true&show_owner=true&text_color=fff&icon_color=fff&title_color=fff" style="zoom:100%;" />
 
