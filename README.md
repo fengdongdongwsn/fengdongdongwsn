@@ -12,7 +12,7 @@
 
 ### :email:wechat【微信】：
 
- <img src="https://s3.ax1x.com/2020/12/25/rWOtDe.jpg" width = "300" height = "300" alt="图片名称" align=right />]
+ <img src="https://s3.ax1x.com/2020/12/25/rWOtDe.jpg" width = "300" height = "300" alt="图片名称" align=right />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fengdongdongwsn&theme=onedark&bg_color=DEG,E96445,904E95&show_icons=true&show_owner=true&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
