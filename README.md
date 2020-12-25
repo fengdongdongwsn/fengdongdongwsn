@@ -1,6 +1,7 @@
 ### 👋欢迎来到“愚公要移山”的主页
 
-<img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme" style="zoom:100%;"/>
+<img align="center" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme" style="zoom:180%;"/>
+
 
 **您好，我叫冯冬冬，西北工业大学计算机学院研三学渣一枚，庆幸的是在2021届校招中，斩获了大小厂10几个offer，本人热衷于写技术博客。发表在各大平台，虽然不挣钱，但是收获了一大帮志同道合的好朋友，**
 
@@ -17,7 +18,7 @@
 | [点我直达](https://www.javachat.cc/)                         | [点我直达](https://imgchr.com/i/rJnbO1)                      | [点我直达](https://juejin.cn/user/1978776660213837/posts)    | [点我直达](https://www.zhihu.com/people/feng-dong-dong-10) |
 | **CSDN**                                                     | **头条**                                                     | **百家号**                                                   | **Segmentfault**                                           |
 | [点我直达](https://blog.csdn.net/SDDDLLL)                    | [点我直达](https://www.toutiao.com/c/user/token/MS4wLjABAAAAfhLQnyWhG1iqEVx_lsnoX7cUOlluuJf07J368xBJ7jU/) | [点我直达](https://author.baidu.com/home?from=bjh_article&app_id=1634941951856739) | [点我直达](https://segmentfault.com/u/a_yugong)            |
-| **教程资源（5T）**                                           | **学习路线**                                                 | **博客文章汇总**                                             |                                                            |
+| **教程资源（5T）**                                           | **学习路线**                                                 | **博客文章**                                             |                                                            |
 | [点我直达](https://mp.weixin.qq.com/s/nIODGnCKFgs3BTZ9Qy5rHQ?scene=25#wechat_redirect) | [点击直达](https://mp.weixin.qq.com/s/UTV2GXtBdX-oLh7M9LTEvQ) | [点击直达](https://mp.weixin.qq.com/s/wZ_4fy_F-NecMv3HO4Hfjw) |                                                            |
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:40%;" />
