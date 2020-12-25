@@ -2,6 +2,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=fengdongdongwsn.readme)
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:20%;" />
+
 ##  👨🏻‍💻 About Me 
 
 | 个人网站                             | 公众号                                                       | CSDN                                      | 掘金                                                      | 知乎                                                       | 头条                                                         | 百家号                                                       | Segmentfault                                    |
@@ -16,5 +18,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fengdongdongwsn&theme=onedark&bg_color=DEG,E96445,904E95&show_icons=true&show_owner=true&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />
+
 
